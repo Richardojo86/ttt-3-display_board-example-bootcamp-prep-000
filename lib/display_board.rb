@@ -1,3 +1,3 @@
 def display_board
   board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
-  p
+  puts " #{board[0]} | #{board["
